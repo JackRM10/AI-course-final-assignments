@@ -1,0 +1,9 @@
+#Exmple YAML file of streaming account
+profile:
+  name: Jane Smith
+  age: 34
+  email: jane.smith@emailserver.com
+preferences:
+  - Comedy
+  - Romance
+  - Drama
