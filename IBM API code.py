@@ -2,7 +2,7 @@ import requests
 
 # Replace with your specific details
 base_url = 'https://api-connect-pu.com'
-api_key = 'y1fcaef06-88be-44a8-9a8f-298f4d388821'
+api_key = 'to be reentered'
 endpoint = '/v1/some/endpoint'
 
 # Set up the headers
